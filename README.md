@@ -34,11 +34,6 @@ To set up this database in your MySQL environment, follow these steps:
 
 ## Entity-Relationship Diagram (ERD)
 
-![Library Management System ERD](link-to-your-erd-image-here.png)
-
-*Replace `link-to-your-erd-image-here.png` with the actual URL or relative path to the image file of your ERD.*
-
-*(Alternatively, if you prefer to include the ERD as a text-based representation, you can do so here. However, an image is generally more effective for visualizing database relationships.)*
 
 This diagram visually illustrates the structure of the database, including the tables, their attributes (columns), primary keys, foreign keys, and the relationships between them. It provides a clear overview of how the different entities in the library system are connected.
 # Library_system.sql
