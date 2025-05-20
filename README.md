@@ -34,6 +34,6 @@ To set up this database in your MySQL environment, follow these steps:
 
 ## Entity-Relationship Diagram (ERD)
 https://github.com/talangi12/Library_system.sql/issues/1#issue-3076433249
-
+/storage/emulated/0/Android/media/com.whatsapp.w4b/WhatsApp Business/Media/WhatsApp Business Images/IMG-20250520-WA0045.jpg
 This diagram visually illustrates the structure of the database, including the tables, their attributes (columns), primary keys, foreign keys, and the relationships between them. It provides a clear overview of how the different entities in the library system are connected.
 # Library_system.sql
